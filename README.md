@@ -11,7 +11,7 @@ The groups can be further used for system and catalog authorization and RBAC imp
 The artifacts are also present in the [Release](https://github.com/arghya18/trino-group-provider-ldap-ad/releases) of this project, incase you do not want to build this project.
 
 ```
-mvn clean package
+./mvnw clean package
 ```
 
 
